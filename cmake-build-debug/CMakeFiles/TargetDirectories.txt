@@ -1,0 +1,3 @@
+D:/term2/OOP2025/project/OOP2025_Project/cmake-build-debug/CMakeFiles/OOP2025_Project.dir
+D:/term2/OOP2025/project/OOP2025_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/term2/OOP2025/project/OOP2025_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
